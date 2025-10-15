@@ -99,6 +99,8 @@ pip install pandas matplotlib seaborn requests beautifulsoup4
 
 ```bash
 jupyter notebook
+
+python -m notebook
 ```
 
 ### 4. Open the Project Notebook
