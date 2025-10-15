@@ -1,0 +1,19 @@
+Libraries:
+
+1) Pandas
+2) seaborn
+3) matplotlib
+4) os
+5) re
+6) requests
+7) BeautifulSoup
+
+//imported like this
+#import all the relevant libraries
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+import os
+import re
+import requests
+from bs4 import BeautifulSoup
