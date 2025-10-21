@@ -1,7 +1,5 @@
-### 📘 **README.md**
-
-````markdown
-# 🧠 Mental Health Data Analysis — Programming with Data
+# 📘 README.md
+## 🧠 Mental Health Data Analysis — Programming with Data
 
 A comprehensive **data analytics project** investigating global and U.S. mental health trends using multiple real-world datasets.  
 This analysis uses **Python, Pandas, Matplotlib, Seaborn, and BeautifulSoup** to visualize insights and understand how **age, gender, education, and environment** impact mental health.
